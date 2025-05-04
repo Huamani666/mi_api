@@ -9,10 +9,10 @@ app.use(express.json());
 
 // ⚠️ Reemplaza con tu cadena de conexión
 const config = {
-  user: 'db_ab33bf_waly_admin',
+  user: 'db_ab84d2_waly_admin',
   password: '949466985JORGEl',
-  server: 'SQL1002.site4now.net',
-  database: 'db_ab33bf_waly',
+  server: 'SQL1003.site4now.net',
+  database: 'db_ab84d2_waly',
   options: {
     encrypt: true,
     trustServerCertificate: false
